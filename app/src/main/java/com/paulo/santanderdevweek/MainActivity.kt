@@ -26,10 +26,7 @@ class MainActivity : AppCompatActivity() {
                 Log.d("Click", "Click no item 1")
                 true
             }
-            else -> {
-                Log.d("Click", "Click no item 2")
-                true
-            }
+            else -> super.onOptionsItemSelected(item)
         }
     }
 }
