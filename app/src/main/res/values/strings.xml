@@ -2,4 +2,13 @@
     <string name="app_name">Santander Dev Week</string>
     <string name="menu_1">Menu 1</string>
     <string name="menu_2">Menu 2</string>
+    <string name="banco">Banco</string>
+    <string name="ola_paulo">Ola, Paulo</string>
+    <string name="agencia">Ag 2077</string>
+    <string name="conta">Cc 01097954-5</string>
+    <string name="saldo_disponível">Saldo disponível</string>
+    <string name="r_18_000_00">R$ 18.000,00</string>
+    <string name="saldo_limite">Saldo - Limite</string>
+    <string name="r_20_000_00">R$ 20.000,00</string>
+    <string name="ver_extrato">Ver Extrato</string>
 </resources>
