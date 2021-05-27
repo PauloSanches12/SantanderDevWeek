@@ -15,4 +15,5 @@
     <string name="transferir">Transferir</string>
     <string name="cartao_final">Cartão Final</string>
     <string name="cartao_final_valor">0077</string>
+    <string name="menu">Menu</string>
 </resources>
